@@ -72,5 +72,5 @@ and the name as (depending on your mood):
 [Documentation/SubmittingPatches]: Documentation/SubmittingPatches
 [Documentation/CodingGuidelines]: Documentation/CodingGuidelines
 [po/README.md]: po/README.md
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
